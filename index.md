@@ -270,7 +270,7 @@ Edit the text to match who can attend the workshop. For instance:
 {% endcomment %}
 <p id="who-can-attend">
     <strong>Who can attend?:</strong>
-    This workshop is open to anyone affiliated with Winston-Salem State University. Others, please contact the host, Dr. Debzani Deb, listed under "Contact".
+    This workshop is for a group of faculty, selected through application solicitation and peer review, affiliated with Winston-Salem State University. Others, please contact the host, Dr. Debzani Deb, listed under "Contact".
 </p>
 
 
